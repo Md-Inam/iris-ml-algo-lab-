@@ -32,6 +32,6 @@ This repository contains implementation of core Machine Learning algorithms usin
 
  🚀 How to Run
 
-git clone https://github.com/Md-Inam/iris-ml-algo-lab.git
+git clone [https://github.com/Md-Inam/iris-ml-algo-lab.git](https://github.com/Md-Inam/iris-ml-algo-lab-)
 cd iris-ml-algo-lab
 jupyter notebook
